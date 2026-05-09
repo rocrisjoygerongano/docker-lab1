@@ -1,0 +1,22 @@
+# User-specific Folder 
+.qodo/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment folders
+.venv/
+venv/
+env/
+bin/
+lib/
+
+# Editor-specific (VS Code)
+.vscode/
+.history/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
