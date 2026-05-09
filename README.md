@@ -33,6 +33,10 @@ I used the Docker Desktop GUI to monitor the container status and inspect the lo
 ![Docker Desktop Containers](./screenshots/03_docker_desktop_containers.png)
 ![Container Logs Verification](./screenshots/05_docker_desktop_logs.png)
 
+### 5. Cleanup and Resource Management
+As per Step 8 of the lab manual, I performed a full cleanup to reclaim system resources. This involved stopping the container, removing the instance, and deleting the Docker image.
+![Cleanup Verification](./screenshots/06_cleanup_verification.png)
+
 ---
 
 ## 🧠 Guide Questions
